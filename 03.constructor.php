@@ -26,6 +26,3 @@
     echo "Game : " . $produk2->getLabel();
     echo "<br>";
     echo "download xdebug";
-?>
-
-
